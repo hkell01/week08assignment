@@ -1,0 +1,32 @@
+body {
+    background-color: black ;
+}
+
+
+HI {
+    color:red;
+
+}
+
+div {
+    background-color:red; border-style: solid; border-color: grey; border-radius: 5px;
+}
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+
+}
+
+#large-paragraph {
+    font-size: 40px;
+}
+
+body {
+    background-color:orangered; 
+
+}
+
+.shadow-text{
+    text-shadow: red 1px 1px; 
+
+}
